@@ -1,5 +1,9 @@
 # mapbox-angular-tutorial
- Sourcecode for my article on medium "Creating a Simple Mapbox Component in Angular". This repo contains 2 separate Angular applications
+ Sourcecode for my article on medium "Creating a Simple Mapbox Component in Angular". This repo contains 2 separate Angular applications both have the necessarry packages in the package.json file needed to complete the tutorial. To use this code you'll need to have installed Node.js and then Angular CLI. 
+At the time of creation my Node, Angular and NPM versions were:
+- Angular CLI: 15.2.0
+- Node: 14.20.0
+- Package Manager: npm 6.14.17
  
 **mapbox-angular-basic**:
 This is the basic Angular application structure that you need to get started so be sure to `cd mapbox-angular-basic` this folder when following the tutorial 
