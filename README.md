@@ -12,6 +12,8 @@ This is the basic Angular application structure that you need to get started so 
 - Use `npm i` to install all angular and mapbox dependencies
 - use `ng serve` to run the application by default this should load in http://localhost:4200/
 
+
+
 **mapbox-angular-final**:
 
 This is the sourcecode for the final product of the tutorial - you can use this as reference in case you get a bit lost trying to follow the article, or simply you can take this code as a template for a working Mapbox Angular Web component
