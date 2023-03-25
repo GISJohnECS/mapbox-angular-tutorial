@@ -1,12 +1,12 @@
 # mapbox-angular-tutorial
  Sourcecode for my article on medium "Creating a Simple Mapbox Component in Angular". This repo contains 2 separate Angular applications
  
-**mapbox-angular-basic**
+**mapbox-angular-basic**:
 This is the basic Angular application structure that you need to get started so be sure to `cd mapbox-angular-basic` this folder when following the tutorial 
 Use `npm i` to install all angular and mapbox dependencies
 use `ng serve` to run the application by default this should load in http://localhost:4200/
 
-**mapbox-angular-final**
+**mapbox-angular-final**:
 This is the sourcecode for the final product of the tutorial - you can use this as reference in case you get a bit lost trying to follow the article, or simply you can take this code as a template for a working Mapbox Angular Web component
 
 To run the sourcecode
