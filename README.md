@@ -9,8 +9,8 @@ At the time of creation my Node, Angular and NPM versions were:
 **mapbox-angular-basic**:
 
 This is the basic Angular application structure that you need to get started so be sure to `cd mapbox-angular-basic` this folder when following the tutorial 
-Use `npm i` to install all angular and mapbox dependencies
-use `ng serve` to run the application by default this should load in http://localhost:4200/
+- Use `npm i` to install all angular and mapbox dependencies
+- use `ng serve` to run the application by default this should load in http://localhost:4200/
 
 **mapbox-angular-final**:
 
